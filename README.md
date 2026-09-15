@@ -1,7 +1,4 @@
-# Template-Repository
-
-README Template
-# Project Name
+# Cardiovascular Risk Factors and Biomarkers in the Decades Prior to a Cardiovascular Event
 A clear description of what your project does and why it exists.
 
 ## Table of Contents
@@ -58,11 +55,13 @@ How to use the code with examples:
 - RStudio (recommended)
 - Packages required:
    - tidyverse
-     
+   - nlme
+   - GLMMadaptive     
 
 ## Authors
-- Your Name - University of Edinburgh
-- Collaborator Name - University of Edinburgh
+- Marie de Bakker - University of Edinburgh
+- Dave Yeung - University of Edinburgh
+- Dorien Kimenai - University of Edinburgh
 
 ## Acknowledgements
 - Funding source (e.g. MRC, Wellcome Trust)
@@ -80,5 +79,5 @@ This project is licensed under the [MIT Licence](LICENSE)
 
 ## Contact
 For questions or issues please contact:
-- Your Name - your.email@ed.ac.uk
+- Dorien Kimenai - dorien.kimenai@ed.ac.uk
 
