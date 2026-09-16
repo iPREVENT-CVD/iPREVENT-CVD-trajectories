@@ -34,7 +34,12 @@ The R code provided include 1) the linear and generalized linear mixed-effects m
 
 ## Project Structure
 ```
-├── src/         # R scripts
+├── function_timetoevent/              # R scripts
+├── function_lifecourse/               # R scripts
+├── 001_model_timetoevent/             # R scripts
+├── 002_figure_creation_timetoevent/   # R scripts
+├── 003_model_lifecourse/              # R scripts
+├── 004_figure_creation_lifecourse/    # R scripts
 
 └── README.md    # This file
 ```
@@ -58,7 +63,7 @@ This work was funded by the British Heart Foundation Intermediate Basic Science 
 
 ## Citation
 If you use this code in your research please cite:
-URL
+placeholder
 
 ## Licence
 This project is licensed under the [MIT Licence](LICENSE)
