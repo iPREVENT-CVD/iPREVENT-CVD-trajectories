@@ -63,7 +63,7 @@ This work was funded by the British Heart Foundation Intermediate Basic Science 
 
 ## Citation
 If you use this code in your research please cite:
-placeholder
+de Bakker et al. JAMA Network Open. 2026;9(11). doi:10.1001/jamanetworkopen.2026.45690
 
 ## Licence
 This project is licensed under the [MIT Licence](LICENSE)
