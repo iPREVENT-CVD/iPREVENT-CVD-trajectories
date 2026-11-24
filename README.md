@@ -27,8 +27,8 @@ Recommended version: R 4.0+
 3. Install RStudio (Recommended)
 Download from https://www.rstudio.com/
 
-4. Install required packages. At the start of the script required packages are stated. If these have not already been downloaded follow these steps to install packages prior to running scripts: (1) Open R or RStudio (2) run install.packages(c("package1", "package2"))
-
+4. Install required packages. At the start of the script required packages are stated.
+   
 ## Usage
 The R code provided include 1) the linear and generalized linear mixed-effects models used to estimate average trajectories of cardiovascular risk factors and circulating biomarkers across individuals who experienced the primary outcome, individuals who survived and did not experience the primary outcome, and individuals who died from non-cardiovascular causes. analysis; and 2) the linear and generalized linear mixed-effects models used to evaluate sex-specific trajectories of cardiovascular risk factors and circulating biomarkers over the adult life-course. Additionally, two functions are provided that were used in the R scripts to run the models. For each analysis, an R script is available to create the figures as presented in the manuscript.
 
